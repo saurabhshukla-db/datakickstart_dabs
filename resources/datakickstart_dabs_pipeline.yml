@@ -9,7 +9,7 @@ resources:
             path: ../src/dlt_pipeline.ipynb
       clusters:
         - label: "default"
-          num_workers: 2      
+          num_workers: 3      
 
       configuration:
         bundle.sourcePath: /Workspace/${workspace.file_path}/src
