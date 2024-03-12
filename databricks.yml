@@ -27,7 +27,7 @@ targets:
     # to a path that is not specific to the current user.
     mode: production
     workspace:
-      host: https://adb-1855084017998148.8.azuredatabricks.net/
+      host: https://adb-984752964297111.11.azuredatabricks.net/
       root_path: /Shared/.bundle/${bundle.target}/${bundle.name}
       run_as:
         user_name: saurabh.shukla@databricks.com
